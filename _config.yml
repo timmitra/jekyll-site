@@ -23,4 +23,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   
- theme: minima
+ theme: minimal-mistakes-jekyll
